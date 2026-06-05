@@ -14,8 +14,7 @@ build/
 # Environment
 .env
 
-# Logs (keep .gitkeep, ignore actual logs)
-logs/*.jsonl
+# Logs — requests.jsonl included for observability demo
 
 # HuggingFace cache
 .cache/
