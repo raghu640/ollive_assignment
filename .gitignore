@@ -20,5 +20,8 @@ logs/*.jsonl
 # HuggingFace cache
 .cache/
 
+# Internal planning docs
+docs/
+
 # OS
 .DS_Store
