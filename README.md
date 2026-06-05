@@ -12,14 +12,14 @@ Qwen2.5-0.5B (open-source) vs GPT-4.1 (frontier) — multi-turn chat with web se
 
 ## Live Demo
 
-Deployed on HuggingFace Spaces: [ai-assistant-comparison](https://huggingface.co/spaces/YOUR_HF_USERNAME/ai-assistant-comparison)
+Deployed on HuggingFace Spaces: [raghu12/ollive](https://huggingface.co/spaces/raghu12/ollive)
 
 ## Setup
 
 ### Local
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ollive-assistant
+git clone https://github.com/raghu640/ollive_assignment
 cd ollive-assistant
 pip install -r requirements.txt
 cp .env.example .env
